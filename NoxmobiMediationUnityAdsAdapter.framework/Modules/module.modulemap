@@ -1,0 +1,6 @@
+framework module NoxmobiMediationUnityAdsAdapter {
+  umbrella header "NoxmobiMediationUnityAdsAdapter.h"
+
+  export *
+  module * { export * }
+}
