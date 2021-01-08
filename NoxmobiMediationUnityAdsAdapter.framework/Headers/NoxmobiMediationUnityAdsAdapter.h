@@ -9,6 +9,6 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiMediationUnityAdsAdapterVersion @"3.5.1.0"
+#define NoxmobiMediationUnityAdsAdapterVersion @"3.6.0.0"
 
 
